@@ -1,9 +1,9 @@
 
-Clinical Data Analysis Dashboard (Power BI + SQL Server)
+<h2 style="font-size:40px;">Clinical Data Analysis (Power BI + SQL Server)</h2>
 
-Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiM2ZlZDcyMzgtNDhiZS00NTRlLTgxM2UtZDRhNGRjMDBhYmRiIiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9&pageName=91d4fd5c4a058e7c845d
+Link: https://app.powerbi.com/view?r=eyJrIjoiM2ZlZDcyMzgtNDhiZS00NTRlLTgxM2UtZDRhNGRjMDBhYmRiIiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9&pageName=91d4fd5c4a058e7c845d
 
-Dashboard Overview
+Overview
 
 This project presents a **Clinical Data Analysis Dashboard** built using **Power BI** with **SQL Server** as the data source. The dataset contains **approximately 20 million (2 crore) clinical records**, designed to simulate large-scale healthcare data.
 
