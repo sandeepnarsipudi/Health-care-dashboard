@@ -1,5 +1,5 @@
 
-🏥 Clinical Data Analysis Dashboard (Power BI + SQL Server)
+Clinical Data Analysis Dashboard (Power BI + SQL Server)
 
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiM2ZlZDcyMzgtNDhiZS00NTRlLTgxM2UtZDRhNGRjMDBhYmRiIiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9&pageName=91d4fd5c4a058e7c845d
 
